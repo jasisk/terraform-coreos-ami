@@ -1,0 +1,3 @@
+variable "channel" {
+  default = "stable"
+}
